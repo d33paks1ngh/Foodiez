@@ -1,5 +1,5 @@
 {
-  "/dapi/restaurants/list/v5": {
+  "/dapi/restaurants/list": {
     "target": "https://www.swiggy.com/",
     "changeOrigin": true
   },
