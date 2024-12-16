@@ -1,0 +1,44 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is Namaste React series",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoniRe/namaste-react.git"
+  },
+  "keywords": [],
+  "author": "Aditya Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoniRe/namaste-react/issues"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.6",
+    "@babel/preset-env": "^7.23.6",
+    "@testing-library/jest-dom": "^6.1.5",
+    "@testing-library/react": "^14.1.2",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "@babel/preset-react": "^7.23.3",
+    "@reduxjs/toolkit": "^2.0.1",
+    "http-proxy-middleware": "^2.0.6",
+    "jest-transform-stub": "^2.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^9.0.4",
+    "react-router-dom": "^6.19.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
